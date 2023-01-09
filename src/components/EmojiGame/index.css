@@ -1,0 +1,10 @@
+.app-container {
+  background-image: linear-gradient(to right, #6a59ff, #fbc7d4);
+}
+.emojis-list-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 90%;
+}

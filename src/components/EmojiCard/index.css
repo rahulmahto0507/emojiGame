@@ -1,0 +1,16 @@
+.list-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #9796f0;
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+  border: 2px solid #ffffff30;
+  list-style-type: none;
+  margin: 15px;
+}
+.button {
+  background-color: transparent;
+  border-style: none;
+}

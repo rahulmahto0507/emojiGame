@@ -1,0 +1,31 @@
+.nav-bar-container {
+  background-color: #9796f0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.emoji-logo {
+  height: 48px;
+  width: 48px;
+  margin-right: 20px;
+}
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #ffffff;
+}
+.para {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ffffff;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.score-container {
+  display: flex;
+}
